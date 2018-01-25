@@ -1,4 +1,7 @@
 # Local Development API Server
+
+Find the [client app from here](https://github.com/Ank4n/mws-restaurant-stage-1).
+
 ## Usage
 #### Get Restaurants
 ```
